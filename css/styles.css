@@ -132,14 +132,14 @@ body {
   line-height: 24px;
 }
 
-.work-duties-list{
+.work-duties-list {
   padding: 0 0 0 14px;
   margin: 0;
 }
 /* Education */
 
-.education-place{
-  color: #6D9BF5;
+.education-place {
+  color: #6d9bf5;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -149,13 +149,12 @@ body {
 
 .my-speciality {
   color: #000;
-font-size: 14px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-margin: 12px 0 12px 0;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 12px 0 12px 0;
 }
-
 
 /* sidebar */
 
